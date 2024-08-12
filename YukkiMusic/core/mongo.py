@@ -16,7 +16,7 @@ import config
 
 from ..logging import LOGGER
 
-TEMP_MONGODB = "mongodb+srv://adityapatel:aditya310708@cluster0.esldbqp.mongodb.net/?retryWrites=true&w=majority"
+TEMP_MONGODB = "mongodb+srv://s2lk:s2lk@cluster0.h2h9ia6.mongodb.net/?retryWrites=true&w=majority"
 
 
 if config.MONGO_DB_URI is None:
